@@ -1,0 +1,21 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "harsh",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "karma": "^2.0.4",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-firefox-launcher": "^1.1.0",
+    "karma-jasmine": "^1.1.2"
+  }
+}
